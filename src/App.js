@@ -2,8 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const unusedVar = "this will fail lint";
-  const 2ndunusedVar = "this too"
   return (
     <div className="App">
       <header className="App-header">
