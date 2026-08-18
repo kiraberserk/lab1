@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const unusedVar = "this will fail lint";
   return (
     <div className="App">
       <header className="App-header">
@@ -14,6 +15,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          foo="bar"
         >
           Lab1 - CI workflow
         </a>
