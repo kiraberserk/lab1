@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lab1 - CI workflow
         </a>
       </header>
     </div>
