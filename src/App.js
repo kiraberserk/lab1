@@ -14,6 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          foo="bar"
         >
           Lab1 - CI workflow
         </a>
